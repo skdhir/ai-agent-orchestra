@@ -1,0 +1,9 @@
+# Agent workspaces (local clones)
+agents/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

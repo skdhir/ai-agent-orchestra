@@ -1,0 +1,5 @@
+ID,Type,Priority,Category,Title,Description,Status,Dependencies,PR Link,Files Changed,Comments,Assigned To,Completed
+FEAT-001,feature,P1,Platform,Example feature,"Description of the feature. What it does, why it matters.",Ready,None,,,Brainstormed 2026-01-15. Design doc at docs/design/FEAT-001.md.,,
+BUG-001,bug,P1,Platform,Example bug,"What's broken, what the expected behavior is, how to reproduce.",Ready,None,,,"Root cause: brief description of the underlying issue.",,
+FEAT-002,feature,P2,Marketing,Example marketing task,Update pricing page with new tier structure.,Backlog,FEAT-001,,,,,,
+FEAT-003,feature,P1,Infra,Example infra task,Set up CloudWatch alarms for Lambda errors and latency.,Ready,None,,,,,,
