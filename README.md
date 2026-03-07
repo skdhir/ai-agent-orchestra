@@ -386,3 +386,9 @@ If this helped you, star the repo and share it with your team. The engineering c
 ## License
 
 MIT — use it however you want.
+
+## Author
+
+Sanat Dhir — [LinkedIn](https://www.linkedin.com/in/skdhir/) | [Medium](https://medium.com/@skdhir) | [GitHub](https://github.com/skdhir)
+
+*Engineering leader. 20+ years building distributed systems. Columbia Executive MBA. Building and writing about AI-augmented software development.*
