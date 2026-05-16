@@ -23,6 +23,6 @@ This project follows the Phoenix Bridge shared conventions. Read `../shared/mult
 
 ## Git Workflow
 
-- Branch from `main`: `claude/feat-{description}` or `claude/fix-{description}`
+- Branch from `main`: `claude/feat-{tracker-id}` (per shared multi-agent conventions)
 - Never force-push
-- **Open a PR and wait for cross-LLM review + Sanat to merge**
+- **Open a PR; the OTHER LLM reviews + merges** (per the cross-LLM rule in `../shared/multi-agent-conventions.md`)
